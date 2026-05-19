@@ -2,7 +2,7 @@ Kaj je OS? - je programska oprema, ki omogoča delovanje računalnika. Deluje ko
 3 naloge - zaščita podatkov in procesov, upravljanje z datotekami, podpora programskim jezikom.
 linux/windows/mac OS - 
 kaj pomeni da se "naloži ob zagonu"?-
-kaj je gonilnik? - 
-kje ga potrebujemo - 
-HDD vs SSD - 
-kaj je pakticija? - 
+kaj je gonilnik? - je posebna programska oprema, ki operacijskemu sistemu omogoča komunikacijo s strojno opremo
+kje ga potrebujemo - Gonilnike potrebujemo vedno, ko želimo uporabljati zunanje ali notranje komponente računalnika. 
+HDD vs SSD - SSD-ji (Solid State Drives) so bistveno hitrejši, vzdržljivejši in tišji od HDD-jev (HDD-jev)
+kaj je particija? - ) je logična razdelitev fizičnega trdega diska (HDD ali SSD) na več neodvisnih delov, ki jih operacijski sistem obravnava kot samostojne pogone
